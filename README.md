@@ -1,6 +1,6 @@
 # Boas vindas ao projeto final de Front-End
 
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, pergutem! #vqv 🚀
+Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, perguntem! #vqv 🚀
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório.
 
