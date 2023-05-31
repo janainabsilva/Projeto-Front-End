@@ -108,7 +108,7 @@ Neste projeto, verificamos se você é capaz de:
 
   Além da qualidade do código e do atendimento aos requisitos, um bom layout é um dos aspectos responsáveis por melhorar a usabilidade de uma aplicação!
 
-  Para isso, disponibilizamos esse [protótipo do Figma](https://www.figma.com/file/ibAEAbS7A6EBprCvXJNhbt/%5BProjeto%5D%5BFrontend%5D-TrybeWallet?node-id=0%3A1) para lhe ajudar !
+  Para isso, disponibilizamos esse [protótipo do Figma](https://www.figma.com/file/Gp8UfYmoRgC7TA28zLhK7O/Front-end?type=design&node-id=0-1&t=fIZbsGwSxtNfmbJu-0) para lhe ajudar !
 
   ⚠️ A estilização de sua aplicação utilizando esse protótipo é apenas uma **sugestão** e seu uso é **opcional**. Sinta-se à vontade para modificar o layout e deixá-lo do seu jeito.
 
