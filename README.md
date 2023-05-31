@@ -24,7 +24,7 @@ Clone este repositório.
 
 Neste projeto, verificamos se você é capaz de:
 
-- Criar um _contextos_ usando contextAPI
+- Criar _contextos_ usando contextAPI
 
 - Além dos demais conhecimentos estudados na disciplina
 
