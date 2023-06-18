@@ -1,5 +1,5 @@
 import React from "react";
-import "../Login/login.css";
+import "../Login/Login.css";
 import Box from "@mui/material/Box";
 import logo from "../../assets/logologin.png";
 import { Typography } from "@mui/material";
